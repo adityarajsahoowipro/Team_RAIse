@@ -1,2 +1,2 @@
 # Team_RAIse
-Repo for project files
+Repo for Team Raise project files
